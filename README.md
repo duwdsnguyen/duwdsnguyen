@@ -36,6 +36,7 @@ Although I can work across the full stack, my primary focus is building scalable
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 ### Backend
 
